@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "down": "star:block/starv1_simple_block_face0",
+        "up": "star:block/starv1_simple_block_face0",
+        "north": "star:block/starv1_simple_block_face0",
+        "east": "star:block/starv1_simple_block_face0",
+        "south": "star:block/starv1_simple_block_face0",
+        "west": "star:block/starv1_simple_block_face0",
+        "particle": "block/lapis_block"
+    }
+}

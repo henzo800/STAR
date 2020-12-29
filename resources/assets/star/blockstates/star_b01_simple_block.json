@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "": { "model": "star:block/star_b01_simple_block_model" }
+    }
+}
