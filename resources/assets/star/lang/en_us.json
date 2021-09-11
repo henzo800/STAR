@@ -1,3 +1,9 @@
-{ 
-	"block.star.star_b01_simple_block": "Simple Block"
+{
+
+	"item.star.car_item": "Car",
+	"item.star.train_item": "Train",
+	
+	"entity.star.car_entity": "Car",
+	"entity.star.train_entity": "Train"
+	
 }
